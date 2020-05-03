@@ -16,7 +16,7 @@ var commentRoutes  	 = require("./routes/comments"),       //requiring the Route
 	campgroundRoutes = require("./routes/campgrounds"),
 	indexRoutes      = require("./routes/index");
 
-mongoose.connect(process.env.DATABASEURL);
+mongoose.connect(process.env.DATABASE);
 
  //seedDB();   //seed the database
 
