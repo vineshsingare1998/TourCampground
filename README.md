@@ -8,6 +8,7 @@ Animative opening page with option to land on the home page
 <p align="center">
   <img width="460" height="300" src="https://github.com/vineshsingare1998/TourCampground/blob/master/Screenshot%20(4).png?raw=true">
 </p>
+<p>page for adding new campgrounds </p>
 <p align="center">
   <img width="460" height="300" src="https://github.com/vineshsingare1998/TourCampground/blob/master/Screenshot%20(8).png?raw=true">
 </p>
