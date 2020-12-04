@@ -1,8 +1,8 @@
 ## Tour_campground
 Landing page with option to write about the place visited by visitor
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![](https://github.com/vineshsingare1998/TourCampground/blob/master/Screenshot%20(1).png?raw=true)
+![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
 
